@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Andro</string>
+    <string name="rest_url">http://andro.duna.app:9443/AndromedaWeb/rest</string>
+    <string name="reset_url">http://andro.duna.app:9443/AndromedaWeb/reset</string>
+</resources>
